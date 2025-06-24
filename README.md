@@ -7,3 +7,5 @@ Features to be tested:
 - Commits and Collaboration
 
 Added project intro and features list to README
+
+Added feature branch explanation
